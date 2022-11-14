@@ -1,1 +1,0 @@
-# Mcdonald-Market-Segmentation
