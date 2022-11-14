@@ -1,0 +1,1454 @@
+,yummy,convenient,spicy,fattening,greasy,fast,cheap,tasty,expensive,healthy,disgusting,Like,Age,VisitFrequency,Gender
+0,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,-3,61,Every three months,Female
+1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+2,51,Every three months,Female
+2,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+1,62,Every three months,Female
+3,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+4,69,Once a week,Female
+4,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,+2,49,Once a month,Male
+5,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,55,Every three months,Male
+6,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,+2,56,Every three months,Female
+7,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,23,Once a week,Female
+8,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,58,Once a year,Male
+9,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,32,Every three months,Female
+10,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-2,53,Every three months,Female
+11,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+3,28,Once a month,Male
+12,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,65,Every three months,Male
+13,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,54,Once a month,Male
+14,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,-3,67,Once a month,Male
+15,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,51,Once a month,Male
+16,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,34,Once a month,Female
+17,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,+2,31,Once a month,Male
+18,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,-4,47,Every three months,Female
+19,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,I love it!+5,37,More than once a week,Male
+20,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+2,41,Once a year,Female
+21,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,+2,36,Once a month,Male
+22,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,-2,23,Once a week,Female
+23,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,50,More than once a week,Female
+24,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,39,Every three months,Female
+25,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,0,35,Every three months,Female
+26,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,20,Every three months,Male
+27,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,0,34,Once a month,Female
+28,No,Yes,No,No,No,Yes,No,No,No,No,No,0,55,Every three months,Male
+29,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,24,Every three months,Female
+30,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,44,Once a month,Male
+31,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,40,Once a month,Female
+32,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,55,Once a month,Male
+33,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,37,Never,Male
+34,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,48,Once a week,Male
+35,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,54,Every three months,Female
+36,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,38,Every three months,Female
+37,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,49,Every three months,Female
+38,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,35,Never,Female
+39,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,55,Once a year,Male
+40,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,+2,31,Once a year,Male
+41,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,57,More than once a week,Male
+42,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,69,More than once a week,Male
+43,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,37,Every three months,Female
+44,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,60,Never,Male
+45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+2,36,Once a month,Male
+46,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,+1,54,Every three months,Male
+47,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,66,Once a month,Male
+48,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,32,Once a month,Female
+49,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,67,Once a year,Male
+50,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,42,Once a week,Female
+51,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,26,Once a month,Female
+52,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,58,Once a year,Female
+53,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,48,Once a month,Male
+54,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,54,Once a month,Female
+55,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,62,Once a year,Male
+56,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,52,Once a year,Female
+57,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,53,Every three months,Male
+58,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,47,More than once a week,Male
+59,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,26,Once a month,Female
+60,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,I love it!+5,29,Once a week,Female
+61,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,24,Once a week,Male
+62,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,25,Once a week,Female
+63,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,0,54,Once a month,Male
+64,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,23,Once a month,Female
+65,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,0,34,Never,Female
+66,No,Yes,No,No,No,No,No,No,Yes,No,No,+1,47,Every three months,Male
+67,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+3,22,Once a week,Male
+68,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,0,47,Once a year,Male
+69,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,56,Once a month,Male
+70,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,-1,55,Every three months,Male
+71,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,56,Every three months,Female
+72,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,0,56,Every three months,Female
+73,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,37,Every three months,Female
+74,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,50,Once a week,Female
+75,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-1,40,Every three months,Male
+76,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,61,Once a week,Male
+77,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,-2,55,Every three months,Male
+78,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,-1,45,Once a year,Female
+79,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+1,42,Once a month,Male
+80,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,+2,52,Every three months,Male
+81,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,58,Once a year,Female
+82,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,48,Once a month,Male
+83,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,58,Once a week,Male
+84,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-3,18,Once a year,Male
+85,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+4,68,Once a month,Female
+86,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,+1,49,Once a month,Female
+87,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,I hate it!-5,50,Once a week,Female
+88,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,43,Every three months,Female
+89,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,+4,67,Every three months,Male
+90,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,40,Once a week,Female
+91,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,I hate it!-5,35,Never,Male
+92,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,42,Every three months,Female
+93,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,41,Every three months,Female
+94,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,32,Once a month,Male
+95,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+3,21,Once a month,Female
+96,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,56,Once a week,Female
+97,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,+2,27,Every three months,Male
+98,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,0,48,Once a year,Female
+99,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,32,Once a week,Male
+100,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+3,50,Once a month,Male
+101,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,42,Once a year,Female
+102,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,I love it!+5,35,More than once a week,Male
+103,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+4,57,Once a month,Female
+104,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,68,Once a month,Male
+105,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+3,51,Once a month,Female
+106,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,-2,42,Every three months,Female
+107,No,Yes,No,Yes,No,No,No,No,No,No,No,0,44,Every three months,Female
+108,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,57,Once a year,Female
+109,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,56,Once a year,Female
+110,No,Yes,Yes,Yes,No,No,No,No,No,No,No,-2,57,Every three months,Female
+111,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,33,Once a week,Female
+112,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-3,63,Every three months,Male
+113,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,55,Once a month,Male
+114,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,0,39,Every three months,Female
+115,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,65,Never,Male
+116,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,47,Once a week,Female
+117,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+1,37,Every three months,Female
+118,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-1,22,Once a year,Male
+119,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,51,Every three months,Male
+120,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,24,Once a month,Female
+121,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+1,49,Once a month,Female
+122,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,55,Once a month,Female
+123,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,48,Once a year,Male
+124,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,24,Every three months,Female
+125,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,-2,47,Every three months,Male
+126,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-4,54,Once a year,Male
+127,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,23,Once a week,Female
+128,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,+1,34,Every three months,Female
+129,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+3,32,Once a month,Female
+130,No,Yes,No,No,No,Yes,Yes,No,No,No,No,+3,58,Once a month,Female
+131,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,46,Once a year,Female
+132,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,23,Every three months,Female
+133,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,31,Once a month,Male
+134,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,59,Once a year,Male
+135,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,0,47,Once a month,Male
+136,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,58,More than once a week,Female
+137,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,55,Every three months,Male
+138,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,+4,62,Once a month,Female
+139,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,20,Once a month,Male
+140,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,42,Every three months,Male
+141,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,29,Once a month,Male
+142,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+1,63,Once a month,Male
+143,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+2,26,Once a week,Male
+144,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,19,Once a month,Female
+145,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,61,Once a year,Female
+146,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,19,Once a week,Male
+147,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+4,56,Once a month,Female
+148,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,39,Once a year,Female
+149,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,45,Once a month,Male
+150,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,52,Once a year,Male
+151,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,0,42,Once a month,Female
+152,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,47,Once a month,Female
+153,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,22,Once a week,Female
+154,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,63,Once a month,Male
+155,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,65,Every three months,Female
+156,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+1,63,Every three months,Male
+157,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,25,Once a month,Male
+158,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,62,Once a year,Male
+159,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,0,59,Once a year,Female
+160,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,67,Once a year,Male
+161,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,60,Never,Male
+162,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,69,Once a week,Male
+163,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,40,Never,Male
+164,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,67,Once a year,Male
+165,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,37,Every three months,Female
+166,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,-4,65,Every three months,Male
+167,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,64,Once a month,Female
+168,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,57,Once a month,Female
+169,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,I love it!+5,37,Once a week,Male
+170,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+2,39,Once a month,Female
+171,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+1,64,Every three months,Male
+172,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-2,23,Once a year,Male
+173,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,+2,50,Once a week,Female
+174,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,60,Every three months,Male
+175,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-2,32,Once a year,Male
+176,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,59,Never,Female
+177,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,-2,37,Once a month,Male
+178,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,+3,25,More than once a week,Female
+179,No,Yes,No,No,No,Yes,No,No,No,No,No,+3,55,Once a month,Male
+180,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,-2,25,Once a month,Male
+181,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,-3,35,Once a year,Female
+182,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,58,Never,Female
+183,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,32,Never,Male
+184,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,I hate it!-5,45,Never,Female
+185,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,-3,60,Once a year,Female
+186,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,59,Once a year,Male
+187,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,36,Once a month,Female
+188,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,0,55,Once a year,Male
+189,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,55,Every three months,Female
+190,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,22,Once a month,Female
+191,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,21,Once a week,Female
+192,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,62,Once a week,Male
+193,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,29,Once a month,Male
+194,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+1,36,Once a month,Female
+195,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,0,44,Once a year,Male
+196,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,47,Once a year,Female
+197,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,57,Once a year,Female
+198,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,23,Once a year,Female
+199,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,31,Once a week,Female
+200,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,70,More than once a week,Female
+201,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,24,Once a week,Male
+202,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,27,Every three months,Male
+203,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,58,Never,Female
+204,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,+2,51,Once a week,Male
+205,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-2,36,Every three months,Male
+206,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,36,Once a month,Female
+207,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,0,43,Every three months,Male
+208,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,-3,64,Never,Male
+209,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,-3,52,Once a month,Male
+210,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,53,Never,Male
+211,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,52,Never,Female
+212,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,33,Once a week,Female
+213,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,24,Once a week,Male
+214,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,+4,64,Once a month,Female
+215,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,+3,41,Once a month,Male
+216,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,I hate it!-5,56,Once a year,Female
+217,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,49,Once a month,Female
+218,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-1,24,Once a year,Female
+219,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,62,Every three months,Female
+220,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,0,56,Every three months,Male
+221,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,+3,67,Every three months,Male
+222,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,27,Once a month,Male
+223,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,-4,53,Once a year,Male
+224,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,-4,60,Once a year,Female
+225,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,51,Once a year,Female
+226,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,I hate it!-5,67,Once a year,Female
+227,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,27,Once a month,Female
+228,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,0,56,Every three months,Male
+229,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,39,Once a month,Male
+230,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,35,Once a week,Female
+231,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,68,Once a month,Female
+232,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,57,Once a week,Female
+233,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,50,Never,Female
+234,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,64,Once a month,Female
+235,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,66,Once a week,Female
+236,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,27,More than once a week,Male
+237,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,70,Never,Male
+238,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,-1,51,Once a month,Male
+239,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,60,Once a year,Female
+240,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,-4,49,Once a year,Female
+241,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,54,Never,Female
+242,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,58,Never,Female
+243,No,No,No,No,No,Yes,Yes,No,No,No,No,-3,70,Once a month,Female
+244,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,+3,59,More than once a week,Male
+245,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,+1,54,Once a year,Female
+246,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,-3,52,Every three months,Female
+247,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,22,Once a week,Female
+248,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,53,Every three months,Female
+249,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,69,More than once a week,Female
+250,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,+1,20,Every three months,Male
+251,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,+3,66,Once a month,Female
+252,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,25,More than once a week,Female
+253,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,31,Once a week,Female
+254,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+1,67,Once a month,Female
+255,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+3,56,Once a month,Female
+256,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,48,Once a year,Female
+257,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-1,54,Every three months,Female
+258,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,58,Once a month,Male
+259,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,42,Once a week,Female
+260,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+4,38,Once a week,Female
+261,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+2,28,Every three months,Male
+262,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,47,Once a week,Female
+263,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,0,49,Once a year,Male
+264,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,40,Every three months,Female
+265,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,0,31,Once a week,Male
+266,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,I hate it!-5,50,Never,Male
+267,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,-1,69,Once a year,Female
+268,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,40,Once a month,Female
+269,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,I love it!+5,30,Once a month,Male
+270,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-3,44,Once a year,Male
+271,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,32,Once a month,Male
+272,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,67,Once a week,Male
+273,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,18,Once a week,Female
+274,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,27,Once a year,Female
+275,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-1,61,Once a year,Female
+276,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,47,Once a year,Male
+277,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-4,20,Every three months,Male
+278,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,26,Once a week,Male
+279,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,65,Once a year,Female
+280,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,64,Never,Male
+281,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,20,Once a week,Male
+282,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+2,29,Once a month,Female
+283,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,45,Once a month,Female
+284,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,0,31,Once a year,Female
+285,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,41,Once a week,Female
+286,No,No,No,Yes,No,Yes,No,No,Yes,No,No,I hate it!-5,61,Never,Female
+287,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,69,Never,Female
+288,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,+1,28,Once a month,Male
+289,No,Yes,No,No,No,Yes,No,No,No,No,No,+3,68,Once a month,Male
+290,No,No,No,Yes,No,Yes,Yes,No,No,No,No,-4,60,Never,Male
+291,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,0,56,Once a year,Female
+292,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,61,Once a year,Female
+293,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,61,Once a week,Male
+294,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,63,Once a year,Male
+295,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,40,Once a month,Female
+296,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,-1,36,Every three months,Male
+297,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,30,Once a month,Female
+298,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,32,Once a month,Female
+299,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,37,More than once a week,Male
+300,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,+3,61,Once a week,Male
+301,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,34,Once a month,Female
+302,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,24,Once a month,Male
+303,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+1,39,Once a month,Male
+304,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,50,Every three months,Male
+305,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+1,46,Once a month,Male
+306,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+2,43,Once a month,Female
+307,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,36,Once a month,Male
+308,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,I hate it!-5,26,Once a week,Male
+309,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,32,Once a month,Female
+310,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,50,Never,Female
+311,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,56,Once a year,Female
+312,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,57,Every three months,Female
+313,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,25,Once a year,Male
+314,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,47,Once a month,Female
+315,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,32,Once a year,Male
+316,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,32,Once a week,Female
+317,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0,57,Every three months,Female
+318,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,42,Once a week,Male
+319,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,31,Once a week,Male
+320,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-3,37,Once a year,Female
+321,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,+3,33,Every three months,Female
+322,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,-1,46,Every three months,Female
+323,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,41,Every three months,Female
+324,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,-1,60,Every three months,Male
+325,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,42,Once a month,Male
+326,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,45,Once a month,Female
+327,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,0,36,Every three months,Male
+328,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,+2,44,Once a month,Male
+329,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,+1,34,Once a month,Male
+330,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,22,Every three months,Male
+331,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,64,Every three months,Male
+332,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,36,Once a month,Male
+333,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,23,Once a month,Male
+334,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,-4,69,Every three months,Female
+335,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,I hate it!-5,64,Never,Female
+336,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,53,Every three months,Male
+337,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,-4,40,Never,Female
+338,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-4,56,Every three months,Female
+339,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,+2,48,Once a week,Female
+340,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,62,Once a month,Female
+341,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,65,Every three months,Female
+342,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,+4,34,Once a month,Male
+343,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,I hate it!-5,27,Never,Female
+344,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,25,Every three months,Male
+345,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-1,55,Once a year,Female
+346,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,38,Once a week,Female
+347,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+1,52,Once a month,Female
+348,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+3,36,Once a month,Male
+349,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,36,Once a month,Male
+350,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,52,Once a month,Female
+351,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,I love it!+5,49,Once a week,Female
+352,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+2,58,Once a month,Female
+353,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+3,67,Once a month,Female
+354,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+1,56,Every three months,Female
+355,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+2,43,Once a week,Female
+356,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,43,Once a week,Female
+357,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+1,23,Every three months,Female
+358,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+1,29,Once a week,Male
+359,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-4,32,Once a year,Male
+360,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,35,Once a week,Female
+361,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,+2,46,Once a week,Male
+362,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,55,Once a month,Female
+363,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,45,Once a week,Female
+364,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+2,39,Every three months,Male
+365,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,-3,52,Once a year,Male
+366,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,53,Once a month,Female
+367,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,+3,44,Once a month,Male
+368,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,55,Once a year,Female
+369,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,21,More than once a week,Female
+370,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+1,48,Once a month,Male
+371,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,+3,57,Once a month,Female
+372,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,26,Once a week,Male
+373,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+2,52,Once a month,Female
+374,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,28,Once a week,Male
+375,No,Yes,No,No,No,Yes,No,Yes,No,No,No,+2,58,Once a month,Male
+376,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,I love it!+5,34,Once a month,Male
+377,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,39,Every three months,Male
+378,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,20,Once a month,Male
+379,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,0,61,Once a year,Female
+380,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,+4,35,Once a week,Male
+381,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,27,Never,Male
+382,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,50,Once a month,Female
+383,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,58,Once a month,Female
+384,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-1,29,Once a month,Female
+385,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,23,Once a week,Male
+386,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,+2,47,Every three months,Male
+387,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,58,Every three months,Female
+388,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,49,Once a month,Female
+389,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,+1,27,Once a month,Female
+390,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,20,More than once a week,Female
+391,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,0,43,Every three months,Male
+392,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,0,62,Every three months,Female
+393,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,55,Once a year,Female
+394,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-3,62,Once a year,Female
+395,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,56,Once a year,Female
+396,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,60,Never,Male
+397,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,42,Once a month,Female
+398,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,26,Once a week,Female
+399,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-1,55,Once a year,Female
+400,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+4,42,Once a week,Male
+401,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,67,Once a year,Female
+402,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,43,Once a week,Male
+403,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,42,Once a month,Female
+404,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,50,Once a week,Female
+405,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,20,Once a year,Female
+406,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,50,Never,Male
+407,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,60,Once a year,Male
+408,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,21,Never,Male
+409,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,33,Once a month,Male
+410,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,68,Every three months,Female
+411,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,26,Once a month,Male
+412,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,60,Once a month,Female
+413,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,52,Every three months,Female
+414,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+4,70,Every three months,Female
+415,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,44,Once a year,Female
+416,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,23,Every three months,Female
+417,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,-1,62,Every three months,Female
+418,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+2,59,Once a week,Female
+419,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,66,Once a week,Female
+420,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,+1,44,Once a month,Male
+421,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,25,Once a month,Male
+422,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,+3,41,Once a month,Male
+423,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+4,41,More than once a week,Male
+424,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,33,Once a week,Male
+425,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+1,45,Once a month,Female
+426,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,23,More than once a week,Female
+427,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,52,Once a year,Female
+428,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,63,Once a month,Female
+429,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+4,48,Once a month,Female
+430,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,I hate it!-5,52,Never,Male
+431,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,50,Never,Male
+432,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,+2,28,Once a month,Male
+433,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+1,24,Once a month,Male
+434,No,Yes,No,Yes,No,No,No,No,Yes,No,No,0,45,Once a week,Female
+435,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,+2,26,Every three months,Female
+436,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,+1,19,Every three months,Male
+437,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,45,Every three months,Male
+438,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,+1,44,Every three months,Male
+439,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+2,47,Once a month,Male
+440,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,28,Once a month,Male
+441,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,62,Every three months,Female
+442,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,-1,33,Once a week,Male
+443,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,+3,67,Every three months,Female
+444,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+1,67,Once a year,Female
+445,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,+2,49,Once a month,Male
+446,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,33,Once a week,Female
+447,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,51,More than once a week,Female
+448,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,52,Once a week,Female
+449,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,I love it!+5,30,More than once a week,Male
+450,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,60,Once a month,Female
+451,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,-3,47,Every three months,Female
+452,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,+2,44,Once a month,Male
+453,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,43,Every three months,Female
+454,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,46,Once a month,Male
+455,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+1,40,Once a month,Female
+456,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,0,48,Once a year,Female
+457,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,53,Once a month,Female
+458,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,35,Every three months,Male
+459,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,-4,51,Every three months,Male
+460,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,+2,26,Once a month,Male
+461,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-2,46,Every three months,Female
+462,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,39,Once a month,Female
+463,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,38,Once a year,Male
+464,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,40,Once a month,Female
+465,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,36,Once a month,Female
+466,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,56,Never,Female
+467,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,23,Once a month,Female
+468,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,39,Once a month,Female
+469,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,22,Every three months,Female
+470,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+3,27,Once a month,Male
+471,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,23,Every three months,Female
+472,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,21,Every three months,Female
+473,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+3,33,Every three months,Male
+474,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,24,Never,Female
+475,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,22,More than once a week,Female
+476,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,54,Every three months,Female
+477,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,-3,56,Every three months,Female
+478,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,20,Once a month,Male
+479,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,+4,41,Once a month,Female
+480,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,+4,70,Once a month,Male
+481,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,54,Once a month,Female
+482,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+3,23,Once a month,Male
+483,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,61,Once a month,Female
+484,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,52,Once a week,Female
+485,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,61,Once a week,Female
+486,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,-2,66,Every three months,Female
+487,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,40,Once a month,Female
+488,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,I love it!+5,26,Never,Male
+489,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,+2,32,Once a month,Male
+490,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,60,Every three months,Male
+491,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,38,Once a month,Male
+492,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,29,Every three months,Male
+493,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,I hate it!-5,69,Never,Male
+494,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,64,Once a year,Male
+495,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,I hate it!-5,40,Never,Male
+496,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,42,Once a month,Male
+497,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I hate it!-5,64,Once a month,Female
+498,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,I love it!+5,22,Once a week,Male
+499,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,57,Every three months,Female
+500,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,28,Every three months,Female
+501,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,41,Once a month,Female
+502,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,56,More than once a week,Male
+503,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,50,Once a month,Female
+504,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,68,Never,Male
+505,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,I hate it!-5,62,Once a year,Male
+506,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,58,Every three months,Female
+507,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,47,More than once a week,Male
+508,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+3,35,Once a month,Female
+509,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+4,58,Once a month,Male
+510,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,21,Once a week,Female
+511,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,53,Every three months,Female
+512,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,38,Once a month,Female
+513,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,59,Once a month,Male
+514,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,39,Once a week,Female
+515,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+2,36,Every three months,Female
+516,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,26,More than once a week,Female
+517,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,-1,53,Once a week,Male
+518,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,64,Once a month,Female
+519,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,-3,56,Every three months,Female
+520,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,I hate it!-5,65,Never,Male
+521,No,No,No,No,Yes,No,No,No,No,No,Yes,I hate it!-5,40,Never,Male
+522,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,68,Once a month,Male
+523,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,65,More than once a week,Male
+524,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,52,Once a month,Female
+525,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,-4,37,Once a year,Female
+526,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,32,Once a year,Male
+527,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,51,Once a week,Female
+528,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,52,Every three months,Female
+529,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,+4,57,Every three months,Female
+530,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,55,Every three months,Female
+531,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,38,Once a month,Female
+532,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,44,Once a week,Female
+533,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,56,Once a year,Female
+534,No,Yes,No,Yes,Yes,No,No,No,No,No,No,+1,67,Once a year,Female
+535,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,+3,43,Once a month,Female
+536,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,39,Every three months,Male
+537,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,27,Once a week,Female
+538,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+1,29,Once a year,Female
+539,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,-1,24,Once a year,Male
+540,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,37,Every three months,Male
+541,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+1,22,Once a month,Female
+542,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,-2,55,Never,Female
+543,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,50,Once a year,Male
+544,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,+1,26,Once a month,Male
+545,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,55,Every three months,Female
+546,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,48,Once a month,Female
+547,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,25,Once a week,Female
+548,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+4,32,More than once a week,Male
+549,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+1,28,Every three months,Female
+550,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-1,52,Once a year,Female
+551,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,30,Once a week,Male
+552,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,-2,52,Once a year,Female
+553,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+4,55,Once a month,Female
+554,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,35,Once a year,Female
+555,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,29,Once a week,Male
+556,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,55,Once a year,Male
+557,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+1,50,Every three months,Female
+558,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,34,Once a week,Male
+559,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,59,Never,Female
+560,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,+4,40,Once a week,Male
+561,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,39,Once a month,Female
+562,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,0,46,Every three months,Female
+563,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,I love it!+5,25,Once a week,Male
+564,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-3,48,Every three months,Male
+565,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,56,Once a week,Female
+566,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,46,Once a year,Female
+567,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,44,Once a week,Male
+568,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,I hate it!-5,55,Once a year,Female
+569,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,63,More than once a week,Male
+570,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,58,Every three months,Male
+571,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,18,Once a month,Male
+572,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,60,Every three months,Male
+573,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,I hate it!-5,63,Once a year,Female
+574,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,30,Once a month,Female
+575,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,I hate it!-5,67,Never,Female
+576,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,I hate it!-5,65,Never,Female
+577,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,61,Once a month,Female
+578,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+2,52,Once a week,Male
+579,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-3,23,Once a year,Female
+580,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-4,41,Every three months,Female
+581,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,57,Every three months,Male
+582,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,46,Once a year,Female
+583,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-2,36,Every three months,Male
+584,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,I hate it!-5,54,Never,Male
+585,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,37,Once a month,Male
+586,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,33,Once a week,Female
+587,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,+3,26,Once a week,Male
+588,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,+4,27,Once a week,Male
+589,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,34,Once a year,Male
+590,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,+2,49,Once a month,Male
+591,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,34,Once a week,Female
+592,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,+3,37,Once a month,Female
+593,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,-4,62,Once a year,Male
+594,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,54,Once a month,Male
+595,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,-3,37,Once a year,Female
+596,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,57,Every three months,Male
+597,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-1,48,Every three months,Male
+598,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,59,Never,Female
+599,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,52,Once a month,Female
+600,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,36,Every three months,Female
+601,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,35,Every three months,Male
+602,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,43,Once a year,Male
+603,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-4,60,Never,Female
+604,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,32,Never,Female
+605,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,62,Once a week,Male
+606,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,45,Once a month,Male
+607,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,45,Once a month,Male
+608,No,No,No,No,No,No,No,No,Yes,No,Yes,I hate it!-5,34,Once a month,Male
+609,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,55,Once a year,Male
+610,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,-1,36,Every three months,Male
+611,No,Yes,No,No,No,Yes,Yes,No,No,No,No,0,29,Once a year,Male
+612,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,64,Once a month,Female
+613,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,66,Once a month,Female
+614,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,49,Once a month,Female
+615,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,25,Every three months,Female
+616,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,58,Once a month,Female
+617,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,56,Once a year,Female
+618,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,+3,29,Every three months,Female
+619,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,70,Once a year,Female
+620,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,37,Every three months,Female
+621,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,38,Once a week,Male
+622,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,0,59,Once a year,Female
+623,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,20,Every three months,Female
+624,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,69,Once a month,Female
+625,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,66,Once a month,Female
+626,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,53,Once a month,Female
+627,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,60,Never,Female
+628,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,38,Once a week,Female
+629,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,0,34,Every three months,Female
+630,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,+2,45,Every three months,Female
+631,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,30,Every three months,Male
+632,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,38,Never,Male
+633,Yes,Yes,No,No,No,Yes,No,No,No,No,No,+1,55,Once a month,Male
+634,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+2,35,Once a month,Female
+635,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,-3,49,Once a year,Female
+636,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,60,Once a year,Female
+637,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,-2,48,Every three months,Female
+638,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,43,Once a month,Female
+639,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-4,39,Once a year,Male
+640,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,23,Once a week,Male
+641,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,51,Once a month,Female
+642,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,21,Never,Female
+643,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,70,Once a year,Female
+644,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,56,Once a year,Male
+645,No,No,No,Yes,No,No,No,No,Yes,No,Yes,-1,33,Once a year,Female
+646,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,58,Every three months,Male
+647,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+3,23,Once a month,Female
+648,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,0,63,Every three months,Female
+649,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,33,Once a month,Female
+650,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,+1,51,Once a year,Female
+651,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,27,Once a month,Male
+652,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,51,Once a month,Male
+653,No,No,No,No,No,No,No,No,No,No,No,-3,69,Never,Male
+654,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+2,59,Every three months,Female
+655,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,40,Once a month,Male
+656,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,20,Once a month,Female
+657,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,28,Never,Male
+658,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+1,31,Once a month,Male
+659,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,32,Every three months,Female
+660,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,34,Once a week,Female
+661,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,-3,62,Once a week,Male
+662,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0,33,Every three months,Female
+663,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,-1,51,Once a month,Female
+664,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,36,Every three months,Male
+665,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+4,22,Once a month,Female
+666,No,No,No,No,No,No,No,No,Yes,No,Yes,I hate it!-5,51,Never,Female
+667,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,I hate it!-5,42,Never,Male
+668,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,+2,24,Once a month,Male
+669,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,18,Once a month,Male
+670,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,26,Once a year,Female
+671,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,0,57,Never,Male
+672,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+1,59,Once a week,Male
+673,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,38,Every three months,Female
+674,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,26,More than once a week,Female
+675,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,31,Once a month,Male
+676,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,27,Once a year,Female
+677,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,-3,55,Never,Male
+678,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,47,More than once a week,Male
+679,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-4,52,Never,Male
+680,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,58,Once a week,Male
+681,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,30,Every three months,Female
+682,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,-1,38,Every three months,Female
+683,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,49,Once a week,Female
+684,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,+3,37,Once a month,Male
+685,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+3,39,Once a month,Male
+686,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,60,Once a week,Male
+687,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,+3,50,Once a week,Male
+688,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,25,Once a week,Male
+689,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,64,Never,Male
+690,No,No,No,Yes,No,No,No,No,Yes,No,Yes,-3,62,Once a year,Male
+691,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,37,Once a year,Male
+692,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,+2,68,Every three months,Male
+693,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,24,Once a month,Female
+694,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,+1,26,Once a week,Male
+695,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+2,49,Once a month,Female
+696,No,Yes,No,No,No,No,No,No,Yes,No,No,-2,43,Once a week,Male
+697,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+4,53,Once a month,Female
+698,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,41,Once a month,Male
+699,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,35,Every three months,Female
+700,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,60,Never,Male
+701,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,35,Once a week,Male
+702,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,54,Every three months,Male
+703,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+4,23,Once a week,Female
+704,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,0,41,Once a year,Female
+705,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,57,Once a year,Female
+706,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,64,Never,Female
+707,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,59,Once a month,Female
+708,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,38,Once a month,Female
+709,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,66,Every three months,Male
+710,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,49,Once a week,Female
+711,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,48,Every three months,Female
+712,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,I hate it!-5,63,Once a year,Female
+713,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,64,Every three months,Female
+714,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,56,Every three months,Female
+715,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,24,More than once a week,Female
+716,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,0,57,Once a year,Female
+717,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,-4,59,Once a year,Male
+718,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,39,Once a month,Female
+719,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,37,Once a week,Female
+720,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,0,65,Once a year,Male
+721,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,I hate it!-5,55,Every three months,Male
+722,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,34,Once a year,Female
+723,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,31,Once a week,Female
+724,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0,23,Once a month,Female
+725,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,42,Once a month,Female
+726,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,31,Once a year,Male
+727,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,32,Once a month,Female
+728,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,49,Every three months,Female
+729,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,0,59,Once a month,Male
+730,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,I love it!+5,21,More than once a week,Female
+731,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,25,Once a month,Female
+732,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,24,Once a month,Male
+733,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I hate it!-5,58,Never,Male
+734,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,54,Every three months,Male
+735,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,62,Never,Male
+736,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+3,31,Once a month,Male
+737,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+1,21,Once a month,Female
+738,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,48,Once a month,Male
+739,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,30,Every three months,Female
+740,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+2,36,Once a week,Female
+741,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,21,Every three months,Female
+742,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,63,Every three months,Female
+743,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,+1,33,Once a week,Male
+744,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,18,Once a week,Female
+745,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,20,Once a month,Male
+746,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,56,Once a month,Female
+747,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,38,Every three months,Female
+748,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,43,Every three months,Male
+749,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,0,18,Every three months,Male
+750,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,+3,19,Once a week,Male
+751,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,-2,43,Every three months,Male
+752,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,50,Never,Male
+753,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-3,54,Once a month,Female
+754,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,23,Once a week,Male
+755,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0,40,Every three months,Male
+756,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,+2,52,Every three months,Female
+757,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,35,Every three months,Male
+758,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+1,41,Once a month,Male
+759,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,60,Once a year,Male
+760,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,66,Every three months,Female
+761,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,-1,45,Every three months,Male
+762,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,39,Once a month,Male
+763,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+1,49,Once a year,Female
+764,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,58,Once a month,Female
+765,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,32,Every three months,Female
+766,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,+3,34,Once a month,Female
+767,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,50,Once a month,Female
+768,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,I hate it!-5,58,Never,Female
+769,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-3,34,Once a year,Female
+770,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,53,Every three months,Female
+771,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,46,Once a month,Male
+772,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,0,54,Once a year,Female
+773,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,29,Once a month,Male
+774,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,38,Once a month,Female
+775,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,+2,52,Every three months,Female
+776,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,32,Once a month,Female
+777,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,65,Once a month,Female
+778,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,0,44,Every three months,Male
+779,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,-1,42,Once a month,Male
+780,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,37,Once a month,Female
+781,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,0,24,More than once a week,Male
+782,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,0,69,Never,Female
+783,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,39,Once a month,Male
+784,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,+4,55,Once a month,Male
+785,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,47,Every three months,Female
+786,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,46,Once a month,Female
+787,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,63,Every three months,Female
+788,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,64,Never,Female
+789,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+3,34,Every three months,Female
+790,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-2,30,Once a week,Male
+791,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,37,Once a year,Female
+792,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+4,48,Once a month,Male
+793,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,32,Once a month,Female
+794,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,-1,24,Once a year,Female
+795,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+4,65,Every three months,Male
+796,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,64,Every three months,Male
+797,No,Yes,No,No,No,Yes,No,No,No,No,No,0,64,Every three months,Male
+798,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,50,Once a month,Male
+799,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,55,Once a month,Male
+800,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,-2,70,Once a year,Male
+801,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,-2,35,Never,Female
+802,No,No,No,No,No,No,No,No,No,No,No,I hate it!-5,24,Never,Male
+803,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,18,Once a year,Male
+804,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,30,Once a month,Female
+805,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,-3,59,Once a year,Male
+806,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,64,Once a month,Male
+807,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,-3,62,Once a year,Male
+808,No,Yes,No,Yes,No,No,No,No,Yes,No,No,-3,63,Once a year,Female
+809,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,+3,36,Once a week,Male
+810,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,0,32,Every three months,Male
+811,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,61,Once a week,Female
+812,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,42,Once a week,Female
+813,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,43,Once a month,Female
+814,No,Yes,No,Yes,No,No,No,No,No,No,No,0,44,Once a year,Female
+815,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,19,Once a week,Male
+816,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,53,Every three months,Female
+817,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,32,Every three months,Male
+818,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,0,52,Once a month,Female
+819,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-3,60,Never,Male
+820,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-1,53,Every three months,Female
+821,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,33,Once a year,Female
+822,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,I love it!+5,40,Once a month,Female
+823,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,-2,63,Once a year,Male
+824,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+3,47,Once a week,Male
+825,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,25,Once a month,Female
+826,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,38,Every three months,Male
+827,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,28,Once a week,Female
+828,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,0,57,Once a year,Male
+829,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,56,Once a week,Female
+830,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,35,Every three months,Male
+831,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-3,62,Once a year,Male
+832,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,37,Every three months,Female
+833,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,+1,63,Once a week,Male
+834,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,+1,57,Once a year,Male
+835,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,53,Once a year,Female
+836,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,+2,49,Once a week,Female
+837,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,56,Never,Male
+838,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+1,50,Once a month,Male
+839,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,59,Once a year,Female
+840,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,32,Once a month,Female
+841,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+4,44,Once a month,Female
+842,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+1,34,Once a month,Female
+843,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,0,51,Once a year,Female
+844,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,33,Once a month,Male
+845,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+2,36,Once a month,Female
+846,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+3,24,More than once a week,Female
+847,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,42,Once a month,Female
+848,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,45,Never,Male
+849,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,48,Every three months,Female
+850,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,34,More than once a week,Female
+851,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,28,Once a week,Female
+852,No,No,No,No,No,No,No,No,No,No,No,0,55,Once a year,Female
+853,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+2,29,Every three months,Female
+854,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,40,Once a month,Female
+855,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,44,Every three months,Male
+856,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,49,Once a year,Male
+857,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,29,Once a month,Male
+858,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,40,Once a week,Male
+859,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,+3,30,More than once a week,Male
+860,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,34,Once a month,Male
+861,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,60,Every three months,Male
+862,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,66,Once a month,Male
+863,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,+3,51,Every three months,Male
+864,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,44,Once a year,Male
+865,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,64,Once a year,Male
+866,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,+3,37,Every three months,Female
+867,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,51,Never,Male
+868,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,30,Once a week,Male
+869,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,-4,53,Once a year,Male
+870,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,+1,48,Once a month,Male
+871,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-2,67,Once a year,Female
+872,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,39,Never,Male
+873,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,67,Every three months,Female
+874,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,-3,61,Never,Male
+875,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+2,57,Every three months,Male
+876,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,I hate it!-5,64,Once a year,Male
+877,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-4,64,Once a year,Female
+878,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,+4,34,Once a week,Female
+879,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,+4,45,Once a week,Male
+880,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,34,Once a month,Male
+881,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,67,Once a year,Male
+882,No,No,No,Yes,No,Yes,No,No,No,No,Yes,I hate it!-5,38,Never,Female
+883,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,+2,22,Once a week,Male
+884,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,I love it!+5,57,Once a week,Female
+885,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+2,65,Every three months,Female
+886,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,-2,63,Once a year,Male
+887,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,49,Once a year,Male
+888,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-2,36,Once a year,Male
+889,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,-1,60,Never,Female
+890,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-3,62,Once a year,Female
+891,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,I love it!+5,55,Once a week,Male
+892,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+3,41,Once a month,Female
+893,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-2,46,More than once a week,Male
+894,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,51,Once a month,Female
+895,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,I love it!+5,61,Every three months,Female
+896,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+3,38,Once a week,Female
+897,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,59,Never,Female
+898,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,+4,36,Once a month,Male
+899,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,62,Never,Female
+900,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,58,Once a month,Male
+901,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,23,Once a week,Female
+902,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,50,Every three months,Female
+903,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,25,Once a month,Female
+904,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,55,Once a month,Male
+905,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,48,Once a year,Male
+906,No,No,No,Yes,No,Yes,No,No,No,No,Yes,I hate it!-5,62,Never,Female
+907,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,61,Every three months,Female
+908,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,32,More than once a week,Female
+909,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,0,49,Every three months,Male
+910,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,+3,20,Once a month,Male
+911,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+1,43,Every three months,Female
+912,No,No,No,No,No,Yes,Yes,No,No,No,No,I hate it!-5,63,Never,Female
+913,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,60,Once a month,Female
+914,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,68,Once a year,Female
+915,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,64,Once a month,Male
+916,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,57,Once a year,Male
+917,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+4,71,Once a month,Male
+918,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+3,30,Every three months,Female
+919,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,61,More than once a week,Male
+920,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,+1,55,Once a month,Female
+921,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,-3,53,Once a month,Male
+922,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,45,Every three months,Male
+923,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,41,Once a month,Male
+924,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+3,30,Every three months,Male
+925,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+2,42,Once a week,Female
+926,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+3,22,Once a week,Female
+927,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,46,Every three months,Female
+928,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,I love it!+5,43,Once a month,Male
+929,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,33,Once a month,Female
+930,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,19,Never,Female
+931,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,24,Once a month,Male
+932,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,-4,58,Once a year,Male
+933,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0,59,Every three months,Male
+934,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,31,Once a month,Female
+935,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+2,37,Once a month,Female
+936,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,56,Once a month,Male
+937,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,52,Every three months,Male
+938,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,36,Never,Male
+939,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,25,Once a month,Female
+940,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,0,20,Once a year,Male
+941,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,21,Once a month,Female
+942,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-2,59,Once a week,Female
+943,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,51,Once a year,Female
+944,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,50,Once a month,Female
+945,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,63,Every three months,Male
+946,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,25,Every three months,Female
+947,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,51,Once a month,Male
+948,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,36,Once a year,Female
+949,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,31,Once a month,Female
+950,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,26,Once a month,Male
+951,No,No,No,No,No,No,No,No,No,No,Yes,I hate it!-5,30,Once a year,Male
+952,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,37,Once a month,Female
+953,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,-1,30,Every three months,Male
+954,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,30,Once a month,Female
+955,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,+4,55,Every three months,Female
+956,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,19,Once a month,Female
+957,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,23,More than once a week,Female
+958,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,26,Every three months,Female
+959,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-1,59,Once a year,Female
+960,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,+4,23,Once a week,Male
+961,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+4,30,Once a month,Male
+962,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,18,Every three months,Female
+963,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,0,51,Once a year,Male
+964,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+2,35,Once a year,Male
+965,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+3,43,Once a week,Female
+966,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,0,56,Once a year,Female
+967,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+2,53,Once a week,Male
+968,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,47,Every three months,Female
+969,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+2,65,Every three months,Male
+970,No,Yes,No,Yes,No,Yes,No,No,No,No,No,0,51,Never,Male
+971,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,33,Once a month,Female
+972,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,61,Never,Male
+973,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,33,Once a month,Female
+974,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,0,25,Once a month,Male
+975,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,I hate it!-5,36,Never,Male
+976,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,47,Once a month,Male
+977,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,59,Once a month,Female
+978,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,37,Once a year,Female
+979,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,0,22,Once a month,Male
+980,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,48,Every three months,Male
+981,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,+2,70,Once a year,Male
+982,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,I hate it!-5,51,Never,Male
+983,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+3,23,Once a month,Female
+984,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,I love it!+5,28,Every three months,Female
+985,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,+4,39,Once a week,Male
+986,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,+4,62,Every three months,Female
+987,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,25,Once a week,Female
+988,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+2,27,Every three months,Female
+989,No,Yes,No,No,No,Yes,No,No,No,No,No,-2,59,Every three months,Female
+990,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,-3,65,Every three months,Male
+991,No,No,No,No,No,No,No,Yes,Yes,No,No,-4,54,Every three months,Female
+992,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,64,Every three months,Male
+993,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,+2,49,Once a month,Female
+994,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,I love it!+5,22,More than once a week,Female
+995,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,35,Once a month,Male
+996,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,41,More than once a week,Female
+997,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,+1,32,Every three months,Male
+998,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,I love it!+5,24,Once a week,Female
+999,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,52,Once a week,Female
+1000,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,44,Once a year,Male
+1001,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,38,Once a month,Female
+1002,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,43,Once a week,Female
+1003,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,32,Once a year,Female
+1004,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,-1,38,Every three months,Male
+1005,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,63,Never,Female
+1006,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,+3,46,Every three months,Female
+1007,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,+3,29,Every three months,Female
+1008,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,61,Never,Female
+1009,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,+2,47,Every three months,Male
+1010,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,31,Once a month,Male
+1011,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,35,Once a week,Male
+1012,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,64,Every three months,Male
+1013,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,26,Once a month,Female
+1014,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,-1,55,Once a year,Female
+1015,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,46,More than once a week,Female
+1016,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,I love it!+5,52,Once a month,Male
+1017,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,50,Never,Female
+1018,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,33,Once a month,Male
+1019,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,30,Once a month,Female
+1020,No,Yes,No,Yes,No,Yes,No,No,No,No,No,+3,46,Once a week,Female
+1021,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,0,60,Once a year,Female
+1022,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,+3,27,More than once a week,Male
+1023,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,51,Every three months,Female
+1024,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,41,Once a month,Female
+1025,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,67,Once a month,Female
+1026,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,63,Never,Female
+1027,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,+3,65,Every three months,Female
+1028,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,0,59,Once a month,Male
+1029,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,34,Once a year,Female
+1030,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,34,Once a year,Female
+1031,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,53,Once a week,Female
+1032,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,31,Once a week,Female
+1033,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,58,Once a month,Female
+1034,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+2,39,Once a week,Male
+1035,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+4,66,Once a month,Male
+1036,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,55,Once a month,Male
+1037,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,28,Once a month,Female
+1038,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,I hate it!-5,34,Once a month,Female
+1039,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,24,Once a month,Male
+1040,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,0,59,Every three months,Female
+1041,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,67,Every three months,Female
+1042,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,+1,52,Once a month,Female
+1043,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,41,Once a week,Male
+1044,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,37,Once a month,Female
+1045,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,18,Once a week,Male
+1046,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,63,Once a week,Male
+1047,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,24,Once a week,Male
+1048,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,I love it!+5,57,More than once a week,Male
+1049,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,40,Once a month,Male
+1050,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,20,Once a month,Male
+1051,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+1,55,Every three months,Male
+1052,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+2,18,Once a year,Female
+1053,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,+1,42,Once a month,Male
+1054,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,-4,47,Once a year,Female
+1055,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+3,40,Every three months,Male
+1056,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,35,Once a month,Female
+1057,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,64,Once a month,Male
+1058,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,-2,50,Every three months,Female
+1059,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,55,Once a week,Female
+1060,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,64,Never,Female
+1061,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,49,Once a year,Female
+1062,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,0,49,Every three months,Male
+1063,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+3,49,Once a week,Female
+1064,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,50,Every three months,Male
+1065,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,0,65,Once a year,Male
+1066,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,49,Once a week,Male
+1067,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,36,Once a month,Male
+1068,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+4,31,More than once a week,Female
+1069,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,25,Once a week,Female
+1070,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,51,Once a month,Male
+1071,No,Yes,No,Yes,No,No,No,No,Yes,No,No,+1,41,Once a week,Male
+1072,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,58,Once a year,Female
+1073,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,0,69,Once a month,Male
+1074,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,22,Once a week,Female
+1075,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,39,Once a month,Male
+1076,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,-2,58,Once a month,Female
+1077,No,Yes,No,No,Yes,No,No,No,Yes,No,No,-1,47,Once a month,Male
+1078,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,62,Once a week,Male
+1079,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,49,Once a month,Male
+1080,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,-3,65,Once a year,Female
+1081,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,39,Once a week,Female
+1082,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,-3,33,Once a year,Female
+1083,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+4,33,Once a week,Male
+1084,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,64,Once a month,Male
+1085,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,18,Once a year,Male
+1086,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+1,67,Once a month,Male
+1087,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,62,Once a year,Female
+1088,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-4,56,Never,Female
+1089,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,I hate it!-5,36,Once a month,Female
+1090,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,+1,68,Once a year,Male
+1091,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,+3,42,Once a month,Female
+1092,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+2,39,Once a week,Male
+1093,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,24,Once a month,Female
+1094,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,38,Once a week,Female
+1095,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,I love it!+5,52,Once a week,Male
+1096,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+2,43,Once a week,Female
+1097,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,57,Every three months,Male
+1098,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,-4,59,Once a year,Female
+1099,No,No,No,Yes,No,No,No,Yes,No,No,Yes,I hate it!-5,57,Never,Female
+1100,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,43,Every three months,Male
+1101,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,25,Once a week,Female
+1102,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,61,Every three months,Female
+1103,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,25,Once a month,Female
+1104,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,70,Once a year,Female
+1105,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,54,Every three months,Male
+1106,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,60,Every three months,Male
+1107,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,-4,59,Once a year,Male
+1108,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,66,Never,Male
+1109,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,+4,51,Once a week,Male
+1110,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,57,Once a month,Female
+1111,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,61,Every three months,Female
+1112,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,+3,31,Once a month,Female
+1113,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,27,Once a week,Male
+1114,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,36,Once a week,Male
+1115,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,45,Never,Female
+1116,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,53,Every three months,Female
+1117,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,42,Once a year,Female
+1118,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,50,Once a year,Female
+1119,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,+2,51,Once a month,Female
+1120,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,36,Never,Male
+1121,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,-1,55,More than once a week,Female
+1122,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,0,67,Every three months,Male
+1123,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,0,56,Once a month,Male
+1124,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,70,Once a year,Female
+1125,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,I hate it!-5,58,Once a year,Female
+1126,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,44,Never,Male
+1127,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,I hate it!-5,52,Once a year,Female
+1128,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-3,61,Once a year,Female
+1129,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,33,Once a month,Female
+1130,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,30,Once a month,Female
+1131,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,37,Every three months,Male
+1132,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,26,Every three months,Male
+1133,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,0,65,Once a year,Female
+1134,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,38,Once a month,Female
+1135,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,29,Once a week,Female
+1136,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,I hate it!-5,62,Never,Female
+1137,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,21,Once a week,Male
+1138,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,35,Once a year,Female
+1139,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,I love it!+5,27,Every three months,Male
+1140,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,19,Never,Male
+1141,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,I love it!+5,29,Every three months,Male
+1142,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+3,29,Once a week,Male
+1143,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,29,Once a week,Male
+1144,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,31,Once a week,Female
+1145,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,55,Once a month,Female
+1146,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,36,Every three months,Male
+1147,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+1,48,Once a year,Female
+1148,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,23,Every three months,Female
+1149,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,I love it!+5,35,Once a month,Male
+1150,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,0,29,Never,Male
+1151,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,52,Every three months,Female
+1152,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,32,Once a week,Male
+1153,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+3,39,Once a week,Female
+1154,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,55,Once a month,Female
+1155,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,41,Once a week,Male
+1156,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,55,Never,Female
+1157,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,29,Once a month,Female
+1158,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,35,Once a week,Male
+1159,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,I love it!+5,44,Once a week,Male
+1160,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+1,60,Every three months,Female
+1161,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,40,Once a month,Female
+1162,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,I hate it!-5,45,Once a year,Female
+1163,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,37,Once a year,Female
+1164,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,I love it!+5,30,Once a week,Male
+1165,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,+1,53,Once a month,Male
+1166,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,33,Once a month,Male
+1167,No,Yes,No,Yes,No,Yes,No,No,No,No,No,-1,37,Every three months,Male
+1168,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,33,Once a month,Male
+1169,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,I love it!+5,37,Once a week,Female
+1170,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,+1,57,Every three months,Male
+1171,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,53,Never,Female
+1172,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,+3,46,More than once a week,Female
+1173,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,0,62,Every three months,Male
+1174,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,I love it!+5,53,Once a month,Female
+1175,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-1,53,Once a year,Male
+1176,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+4,35,Once a month,Female
+1177,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,-3,52,Once a year,Male
+1178,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,23,Once a month,Female
+1179,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,57,Never,Female
+1180,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,29,Once a week,Female
+1181,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,0,35,Once a year,Female
+1182,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,44,Every three months,Male
+1183,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,I hate it!-5,57,Every three months,Female
+1184,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,49,Once a month,Male
+1185,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+4,63,Once a month,Male
+1186,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,50,Once a week,Male
+1187,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,69,Once a month,Male
+1188,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,55,Once a week,Male
+1189,No,Yes,No,No,No,Yes,Yes,No,No,No,No,+2,44,Once a week,Female
+1190,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,+1,65,Once a year,Female
+1191,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,+3,30,Every three months,Female
+1192,No,Yes,No,Yes,No,Yes,No,No,No,No,No,-2,70,Once a year,Female
+1193,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-2,67,Every three months,Female
+1194,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,60,Every three months,Male
+1195,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+2,31,Every three months,Female
+1196,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,50,Once a week,Female
+1197,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,66,Once a year,Female
+1198,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,24,Once a month,Male
+1199,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,+3,50,Once a month,Female
+1200,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,42,Once a week,Female
+1201,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,23,Once a week,Female
+1202,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,24,Once a month,Female
+1203,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,57,Once a month,Male
+1204,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,I hate it!-5,64,Never,Male
+1205,No,No,No,No,No,Yes,Yes,Yes,No,No,No,+1,63,Once a month,Female
+1206,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-1,62,Once a year,Female
+1207,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,19,Once a week,Female
+1208,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,22,Every three months,Female
+1209,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,+1,20,Every three months,Female
+1210,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,32,Once a month,Female
+1211,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,22,Every three months,Female
+1212,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-2,28,Once a year,Female
+1213,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,+4,47,Once a month,Female
+1214,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,63,Once a month,Male
+1215,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,-4,44,Every three months,Male
+1216,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+1,27,Once a year,Female
+1217,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,22,Once a month,Male
+1218,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-2,66,Never,Female
+1219,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,68,Every three months,Male
+1220,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,I hate it!-5,59,Never,Male
+1221,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,+3,20,Once a month,Female
+1222,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,39,Once a week,Female
+1223,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,0,24,Every three months,Female
+1224,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+3,49,Once a week,Male
+1225,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-1,42,Every three months,Male
+1226,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,20,Every three months,Female
+1227,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,27,Once a year,Female
+1228,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,22,Never,Female
+1229,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,26,Once a year,Male
+1230,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,+4,58,Once a week,Male
+1231,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,35,Once a year,Male
+1232,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,28,Once a week,Male
+1233,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-4,60,Never,Female
+1234,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,I hate it!-5,61,Every three months,Female
+1235,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,59,Once a month,Male
+1236,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,64,Every three months,Female
+1237,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,0,19,Never,Female
+1238,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,-2,69,Every three months,Female
+1239,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,+2,44,Once a month,Male
+1240,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,29,Once a week,Female
+1241,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,27,Every three months,Male
+1242,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,I love it!+5,26,Every three months,Male
+1243,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,59,Once a year,Female
+1244,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-3,40,Once a year,Male
+1245,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,I love it!+5,32,Once a year,Male
+1246,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,-3,49,Every three months,Female
+1247,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+2,58,Every three months,Male
+1248,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,44,Once a week,Female
+1249,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,-2,54,Every three months,Male
+1250,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,31,Once a week,Female
+1251,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,45,Every three months,Female
+1252,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,50,Every three months,Male
+1253,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+1,23,Once a month,Male
+1254,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,-3,45,Once a year,Female
+1255,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,+3,30,Once a week,Male
+1256,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,I love it!+5,31,Every three months,Male
+1257,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+2,40,Every three months,Female
+1258,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,63,Once a month,Male
+1259,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,62,Every three months,Female
+1260,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,22,More than once a week,Male
+1261,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,45,Once a month,Female
+1262,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0,54,Every three months,Female
+1263,No,No,No,No,No,No,No,No,No,No,No,I hate it!-5,70,Never,Female
+1264,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,40,Once a month,Male
+1265,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,43,Every three months,Male
+1266,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,+2,43,Once a week,Male
+1267,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,-2,47,Once a year,Female
+1268,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-4,29,Once a year,Female
+1269,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,66,Once a week,Female
+1270,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-1,22,Every three months,Male
+1271,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,64,Every three months,Female
+1272,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,38,Once a month,Male
+1273,Yes,Yes,No,No,No,No,No,No,No,No,No,-1,54,Every three months,Male
+1274,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,42,Once a year,Male
+1275,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-4,68,Every three months,Female
+1276,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,65,Never,Female
+1277,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+3,18,Once a month,Female
+1278,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,53,Every three months,Female
+1279,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,42,Once a month,Female
+1280,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,I love it!+5,30,Once a month,Female
+1281,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+2,53,Once a year,Male
+1282,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,27,Once a month,Male
+1283,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,23,Once a week,Male
+1284,No,No,No,No,No,No,No,No,Yes,No,Yes,I hate it!-5,40,Once a year,Male
+1285,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,60,Every three months,Male
+1286,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,0,59,Once a week,Male
+1287,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,-3,49,Once a month,Male
+1288,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,44,Once a month,Male
+1289,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,62,Never,Male
+1290,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,0,37,Once a month,Female
+1291,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,26,Once a month,Female
+1292,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,-4,58,Once a year,Female
+1293,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,I love it!+5,30,Once a week,Female
+1294,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,51,Every three months,Female
+1295,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+3,60,Once a month,Male
+1296,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,+3,35,Once a month,Female
+1297,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+2,60,Once a week,Female
+1298,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,I hate it!-5,65,Once a year,Female
+1299,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,58,Every three months,Female
+1300,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,49,Never,Male
+1301,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,58,Every three months,Female
+1302,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,+3,26,Every three months,Female
+1303,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0,59,Every three months,Male
+1304,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,-1,28,Once a month,Female
+1305,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,+1,24,Every three months,Female
+1306,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,36,More than once a week,Male
+1307,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,I hate it!-5,66,Once a year,Male
+1308,No,Yes,No,No,No,Yes,Yes,No,No,No,No,0,58,Every three months,Male
+1309,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,31,Once a month,Female
+1310,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,27,More than once a week,Male
+1311,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,+4,20,Once a week,Male
+1312,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,I love it!+5,37,Once a week,Male
+1313,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,34,Once a month,Female
+1314,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,47,Never,Male
+1315,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,25,Every three months,Female
+1316,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,I hate it!-5,67,Once a year,Male
+1317,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,+4,57,Once a month,Female
+1318,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,48,Once a week,Female
+1319,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+3,64,Once a month,Female
+1320,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,38,Every three months,Female
+1321,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-3,44,Once a year,Male
+1322,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,47,Once a month,Female
+1323,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,-4,53,Every three months,Female
+1324,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,I love it!+5,37,Once a month,Male
+1325,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,25,Every three months,Male
+1326,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+4,21,More than once a week,Male
+1327,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,60,Never,Female
+1328,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,-2,48,Once a year,Female
+1329,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,-4,38,Once a year,Female
+1330,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,24,Once a month,Male
+1331,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,+3,26,Once a month,Male
+1332,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,40,Once a week,Female
+1333,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,62,Once a month,Male
+1334,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,26,Every three months,Male
+1335,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,65,Once a month,Female
+1336,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,+2,50,Once a month,Male
+1337,No,No,No,No,No,Yes,Yes,No,No,No,No,0,26,Never,Female
+1338,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,44,Every three months,Female
+1339,No,Yes,No,Yes,No,Yes,No,No,No,No,No,0,48,Once a week,Male
+1340,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,0,29,Once a month,Female
+1341,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,-4,60,Once a year,Female
+1342,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,I love it!+5,18,More than once a week,Male
+1343,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,37,Once a year,Female
+1344,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,-3,55,Once a year,Female
+1345,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,39,Every three months,Female
+1346,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+4,55,Once a month,Male
+1347,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,18,Every three months,Male
+1348,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,21,Once a week,Female
+1349,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+2,31,Once a month,Male
+1350,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+3,28,Once a month,Female
+1351,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+4,39,Once a month,Male
+1352,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,51,Every three months,Male
+1353,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,18,Once a week,Female
+1354,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,I hate it!-5,44,Never,Female
+1355,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,-4,66,Never,Male
+1356,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,-3,34,Once a year,Female
+1357,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,53,Every three months,Female
+1358,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,-3,42,Once a year,Male
+1359,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,38,Every three months,Female
+1360,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,29,Once a month,Female
+1361,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,0,57,Every three months,Male
+1362,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,I love it!+5,26,Once a week,Male
+1363,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,30,Once a week,Female
+1364,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,+1,46,Every three months,Male
+1365,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0,61,Every three months,Male
+1366,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,39,Once a week,Male
+1367,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,62,Every three months,Male
+1368,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,+4,43,Once a month,Female
+1369,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,36,Once a month,Female
+1370,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,+3,60,Every three months,Female
+1371,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-4,54,Once a year,Female
+1372,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,0,48,Once a week,Male
+1373,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,20,Once a month,Male
+1374,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,27,Once a month,Female
+1375,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,-1,68,Once a month,Female
+1376,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,-1,70,Once a month,Male
+1377,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,28,Once a month,Female
+1378,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,59,Never,Female
+1379,No,Yes,No,No,No,Yes,Yes,No,No,No,No,-2,45,Once a year,Male
+1380,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,+2,67,Every three months,Male
+1381,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,+3,26,Once a week,Female
+1382,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,I hate it!-5,42,Never,Male
+1383,No,Yes,No,No,No,Yes,Yes,No,No,No,No,+4,55,Once a week,Male
+1384,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,-2,30,Once a year,Female
+1385,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,I love it!+5,33,Once a week,Male
+1386,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,-3,60,Every three months,Female
+1387,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,57,Once a month,Female
+1388,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,0,44,Once a month,Male
+1389,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,+4,59,Every three months,Female
+1390,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,35,Never,Male
+1391,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+1,60,Once a year,Male
+1392,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,I hate it!-5,67,Never,Female
+1393,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,29,Once a week,Female
+1394,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+4,22,Once a month,Female
+1395,Yes,No,No,No,No,Yes,No,Yes,No,No,No,+4,54,Once a year,Female
+1396,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+3,21,More than once a week,Female
+1397,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,+4,62,Once a month,Female
+1398,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,53,Never,Male
+1399,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,-4,37,Once a year,Female
+1400,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,I love it!+5,44,Once a week,Female
+1401,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,52,Never,Female
+1402,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,+1,55,Every three months,Male
+1403,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,-3,32,Once a year,Female
+1404,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,32,Once a month,Female
+1405,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+2,47,Every three months,Male
+1406,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,I hate it!-5,31,Once a year,Male
+1407,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+1,55,Once a year,Male
+1408,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,-4,60,Once a year,Female
+1409,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,I love it!+5,70,Once a week,Male
+1410,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,+4,49,Once a year,Female
+1411,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+2,55,Once a year,Female
+1412,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,-2,50,Every three months,Female
+1413,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,26,Once a month,Male
+1414,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,-4,55,Once a year,Male
+1415,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,-3,57,Every three months,Male
+1416,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,-1,20,Once a month,Female
+1417,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,+4,46,Once a month,Female
+1418,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,62,Never,Female
+1419,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,0,59,Every three months,Female
+1420,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,53,Once a month,Female
+1421,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+3,57,Every three months,Female
+1422,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+1,59,Every three months,Female
+1423,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+3,41,Once a month,Male
+1424,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,+1,36,Once a month,Male
+1425,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+4,57,Once a month,Male
+1426,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,I love it!+5,33,Once a month,Female
+1427,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,+3,38,Once a month,Female
+1428,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,+1,37,Every three months,Male
+1429,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,+4,25,More than once a week,Male
+1430,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,-3,42,Once a week,Male
+1431,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,55,Every three months,Female
+1432,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,+2,21,Once a week,Male
+1433,No,No,No,No,No,No,No,No,Yes,No,Yes,I hate it!-5,44,Once a year,Male
+1434,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+4,41,Once a week,Male
+1435,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,I hate it!-5,25,Never,Male
+1436,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,24,Once a month,Male
+1437,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,+4,61,Every three months,Female
+1438,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,+3,27,Once a month,Female
+1439,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,+1,61,Once a month,Male
+1440,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,+3,55,Once a month,Female
+1441,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,I love it!+5,29,Once a week,Male
+1442,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,+4,31,Once a month,Male
+1443,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,+2,50,Once a year,Female
+1444,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,-3,55,Never,Male
+1445,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,+1,18,Once a month,Female
+1446,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,+1,52,Every three months,Female
+1447,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,0,43,Once a month,Male
+1448,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,I hate it!-5,47,Once a year,Male
+1449,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,+2,36,Once a week,Female
+1450,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,+3,52,Once a month,Female
+1451,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,+4,41,Every three months,Male
+1452,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,-3,30,Every three months,Male
